@@ -1,0 +1,11 @@
+$spacing_sizes: (
+  0: 0,
+	1: 5px,
+	2: 10px,
+	3: 20px,
+	4: 40px,
+  5: 60px,
+  6: 80px,
+);
+
+@import "sass-spacing/compiled";

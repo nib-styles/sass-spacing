@@ -1,0 +1,13 @@
+{
+  "name": "nib-sass-spacing",
+  "version": "0.1.0",
+  "dependencies": {
+    "sass-spacing": "^0.1.3"
+  },
+  "devDependencies": {
+    "sass-composer": "^0.2.0"
+  },
+  "scripts": {
+    "build": "sass-composer index.scss -o dist/index.css"
+  }
+}

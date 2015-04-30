@@ -1,0 +1,6 @@
+{
+  "name": "sass-spacing",
+  "styles": [
+    "dist/index.css"
+  ]
+}
