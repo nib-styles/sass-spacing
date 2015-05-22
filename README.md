@@ -36,7 +36,8 @@ Breakpoints are referenced with the prefix `g-` in html.
  - mt - margin top
  - mb - margin bottom
  - ml - margin left
- - mr - margin right
+ - mr - margin-right
+
  
  ## Padding Options
 
