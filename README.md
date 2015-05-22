@@ -31,20 +31,20 @@ Breakpoints are referenced with the prefix `g-` in html.
 ## Margin Options
 
  - m - margin
- - mx - margin left & right
- - my - margin top & bottom
- - mt - margin top
- - mb - margin bottom
- - ml - margin left
+ - mx - margin-left & margin-right
+ - my - margin-top & margin-bottom
+ - mt - margin-top
+ - mb - margin-bottom
+ - ml - margin-left
  - mr - margin-right
 
- 
- ## Padding Options
 
+ ## Padding Options
+ 
  - p - padding
- - px - padding left & right
- - py - padding top & bottom
- - pt - padding top
- - pb - padding bottom
- - pl - padding left
- - pr - padding right
+ - px - padding-left & padding-right
+ - py - padding-top & padding-bottom
+ - pt - padding-top
+ - pb - padding-bottom
+ - pl - padding-left
+ - pr - padding-right
