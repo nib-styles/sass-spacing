@@ -11,7 +11,7 @@ To be used in conjunction with [digitaledgeit/css-grid](http://github.com/digita
      </div>
 
 ## Breakpoints
-Breakpoints are referenced with the prefix `g-` in html.
+Breakpoints are prefixed with `g-`
 
  - xs - target devices >=0px
  - sm - target devices >=569px
