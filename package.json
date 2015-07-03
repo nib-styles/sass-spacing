@@ -1,5 +1,5 @@
 {
-  "name": "nib-sass-spacing",
+  "name": "@nib-styles/sass-spacing",
   "version": "0.1.0",
   "dependencies": {
     "sass-spacing": "^0.1.3"
