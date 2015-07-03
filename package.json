@@ -6,7 +6,7 @@
   },
   "devDependencies": {
     "sass-named-breakpoints": "^0.1.0",
-    "sass-composer": "^0.2.0"
+    "sass-composer": "digitaledgeit/sass-composer"
   },
   "scripts": {
     "build": "sass-composer compiled.scss -o dist/compiled.css"
