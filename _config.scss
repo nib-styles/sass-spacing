@@ -1,0 +1,17 @@
+$spacing_sizes: (
+  0: 0,
+  1: 5px,
+  2: 10px,
+  3: 20px,
+  4: 40px,
+  5: 60px,
+  6: 80px,
+);
+
+$named_breakpoints: (
+  "xs": 0px,
+  "sm": 480px,
+  "md": 640px,
+  "lg": 800px,
+  "xl": 960px,
+);
