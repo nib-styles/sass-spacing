@@ -1,22 +1,42 @@
-# sass-spacing
+# @nib-styles/sass-spacing
+
 SASS mixins for margins and paddings. Plus a compiled set of responsive margin and padding classes for non-sass projects. 
 
-To be used in conjunction with [digitaledgeit/css-grid](http://github.com/digitaledgeit/css-grid)
+## Installation
+
+NPM:
+
+    npm install --save @nib-styles/sass-spacing
+
+Component:
+
+    component install nib-styles/sass-spacing
 
 ## Usage
 
-     <div g-md="p3 mb3"> <!-- 20px padding and 20px margin-bottom for >=569px -->
-       <div g-xs="p2" g-sm="p4" g-lg="p0">10px padding up to 568px, 40px padding up to 1003px, 0 padding above</div>
-       <div g-xs="px5 mb3" g-sm="p4">60px padding left/right and 20px margin bottom up to 568px, 20px padding above</div>
-     </div>
+### Using the compiled classes
+
+SCSS:
+
+    @import "@nib-styles/sass-spacing/compiled";
+
+HTML:
+
+    <div g-md="p3 mb3">
+      20px padding and 20px margin-bottom for >=md breakpoint
+    </div>
+    
+    <div g-xs="p2" g-sm="p4" g-lg="p0">
+      10px padding <sm, 40px padding <lg, 0px padding above
+    </div>
+    
+    <div g-xs="px5 mb3" g-sm="p4">
+      60px padding left/right and 20px margin bottom <sm, 20px padding above
+    </div>
 
 ## Breakpoints
-Breakpoints are prefixed with `g-`
 
- - xs - target devices >=0px
- - sm - target devices >=569px
- - md - target devices >=769px
- - lg - target devices >=1004px
+See [@nib-styles/sass-breakpoints](https://github.com/nib-styles/sass-breakpoints).
  
 ## Default Pixel Sizes
 
