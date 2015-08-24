@@ -1,8 +1,8 @@
 {
   "name": "@nib-styles/sass-spacing",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "dependencies": {
-    "@nib-stlyes/sass-breakpoints": "^1.0.0",
+    "@nib-styles/sass-breakpoints": "^1.0.0",
     "sass-spacing": "^0.1.4"
   },
   "scripts": {
