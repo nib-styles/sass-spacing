@@ -48,3 +48,8 @@ See [sass-spacing](https://github.com/digitaledgeit/sass-spacing) for more in-de
 
 See the [@nib-styles/sass-breakpoints](https://github.com/nib-styles/sass-breakpoints) package for a list of available breakpoints.
  
+## Changelog
+
+### v1.0.0
+
+- using `!important`
