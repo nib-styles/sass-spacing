@@ -1,6 +1,6 @@
 @import "@nib-styles/sass-breakpoints/settings";
 
-$spacing_sizes: (
+$spacing-sizes: (
   0: 0,
   1: 5px,
   2: 10px,
@@ -9,3 +9,7 @@ $spacing_sizes: (
   5: 60px,
   6: 80px,
 );
+
+$spacing-important: true;
+
+$spacing-breakpoint-attribute-prefix: 'g-';

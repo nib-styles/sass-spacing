@@ -1,9 +1,10 @@
 {
   "name": "@nib-styles/sass-spacing",
-  "version": "0.2.2",
+  "description": "SASS mixins for margin and padding. Plus a compiled set of responsive margin and padding classes.",
+  "version": "1.0.0",
   "dependencies": {
     "@nib-styles/sass-breakpoints": "^1.0.0",
-    "sass-spacing": "^0.1.4"
+    "sass-spacing": "^1.0.2"
   },
   "scripts": {
     "build": "sass-composer compiled.scss -o dist/compiled.css"

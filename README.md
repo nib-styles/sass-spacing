@@ -1,6 +1,6 @@
 # @nib-styles/sass-spacing
 
-SASS mixins for margins and paddings. Plus a compiled set of responsive margin and padding classes for non-sass projects. 
+SASS mixins for margin and padding. Plus a compiled set of responsive margin and padding classes.
 
 ## Installation
 
@@ -13,8 +13,6 @@ Component:
     component install nib-styles/sass-spacing
 
 ## Usage
-
-### Using the compiled classes
 
 SCSS:
 
@@ -34,11 +32,9 @@ HTML:
       60px padding left/right and 20px margin bottom <sm, 20px padding above
     </div>
 
-## Breakpoints
+See [sass-spacing](https://github.com/digitaledgeit/sass-spacing) for more in-depth usage information.
 
-See [@nib-styles/sass-breakpoints](https://github.com/nib-styles/sass-breakpoints).
- 
-## Default Pixel Sizes
+## Sizes
 
  - 0 - 0
  - 1 - 5px
@@ -47,23 +43,8 @@ See [@nib-styles/sass-breakpoints](https://github.com/nib-styles/sass-breakpoint
  - 4 - 40px
  - 5 - 60px
  - 6 - 80px
- 
-## Margin Options
 
- - m - margin
- - mx - margin-left & margin-right
- - my - margin-top & margin-bottom
- - mt - margin-top
- - mb - margin-bottom
- - ml - margin-left
- - mr - margin-right
+## Breakpoints
 
-## Padding Options
+See the [@nib-styles/sass-breakpoints](https://github.com/nib-styles/sass-breakpoints) package for a list of available breakpoints.
  
- - p - padding
- - px - padding-left & padding-right
- - py - padding-top & padding-bottom
- - pt - padding-top
- - pb - padding-bottom
- - pl - padding-left
- - pr - padding-right
