@@ -1,7 +1,7 @@
 {
   "name": "@nib-styles/sass-spacing",
   "description": "SASS mixins for margin and padding. Plus a compiled set of responsive margin and padding classes.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "@nib-styles/sass-breakpoints": "^1.0.0",
     "sass-spacing": "git+https://github.com/cliff-mayson/sass-spacing.git"
