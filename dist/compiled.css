@@ -1,4 +1,4 @@
-@media (min-width: 0em) {
+@media (min-width: 0) {
   [g-xs~=m0] {
     margin: 0 !important; }
   [g-xs~=mx0] {

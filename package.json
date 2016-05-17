@@ -4,9 +4,12 @@
   "version": "1.0.0",
   "dependencies": {
     "@nib-styles/sass-breakpoints": "^1.0.0",
-    "sass-spacing": "^1.0.2"
+    "sass-spacing": "git+https://github.com/cliff-mayson/sass-spacing.git"
   },
   "scripts": {
     "build": "sass-composer compiled.scss -o dist/compiled.css"
+  },
+  "devDependencies": {
+    "sass-composer": "^2.0.0-beta16"
   }
 }
